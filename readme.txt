@@ -4,7 +4,7 @@ Donate link: http://www.brcode.co.il
 Tags: sports, gameday, scoreboard
 Requires at least: 3.0.1
 Tested up to: 4.4.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -24,6 +24,8 @@ Features:
 * Categorize scores by date.
 * Customizable dates range from widget manager dialog.
 
+Source code could be found on [GitHub]("https://github.com/barshai/wp-plugin-lm-gd-scoreboard").
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
@@ -42,10 +44,12 @@ Make sure both LeagueManager plugin and gameday based theme are installed and ac
 
 1. Example of the widget in action.
 
+2. Widget forn in widgets admin page.
+
 == Changelog ==
 
 = 1.0 =
 * Initial plugin version.
 
 == Upgrade Notice ==
-No further versions yet.
+No special notice.
