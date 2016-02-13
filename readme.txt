@@ -28,7 +28,7 @@ Source code could be found on [GitHub]("https://github.com/barshai/wp-plugin-lm-
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/lm-gd-scoreboard` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Add 'Gameday: LeagueManager Scoreboard Widget' to 'Scoreboard widget are' in appearance->widgets
 4. You may select your preferred numerical matches dated range in widget's settings.
@@ -44,7 +44,7 @@ Make sure both LeagueManager plugin and gameday based theme are installed and ac
 
 1. Example of the widget in action.
 
-2. Widget forn in widgets admin page.
+2. Widget form in widgets admin page.
 
 == Changelog ==
 
